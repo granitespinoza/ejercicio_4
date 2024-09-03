@@ -1,0 +1,35 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "Los 7 hábitos de la gente altamente efectiva",
+        "author": "Stephen R. Covey",
+        "year": 1989
+      },
+      {
+        "id": 2,
+        "name": "Padre rico, padre pobre",
+        "author": "Robert Kiyosaki",
+        "year": 1997
+      },
+      {
+        "id": 3,
+        "name": "Cien años de soledad",
+        "author": "Gabriel García Márquez",
+        "year": 1967
+      },
+      {
+        "id": 4,
+        "name": "El alquimista",
+        "author": "Paulo Coelho",
+        "year": 1988
+      },
+      {
+        "id": 5,
+        "name": "Don Quijote de la Mancha",
+        "author": "Miguel de Cervantes",
+        "year": 1605
+      }
+    ]
+  }
+  
